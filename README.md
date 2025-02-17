@@ -4,6 +4,6 @@ Hi, I’m Kethnulee Weerasinghe, a passionate and driven software engineer with 
 ## Education
 - **BEng (Hons) in Software Engineering** from London Metropolitan University 2025
 - **Pearson (BTEC) level 5 Higher National Diploma (HND) in Computing General** from Pearson 2023
-- - **Pearson(DITEC) Diploma in Information Technology** from Esoft Metro College 2023
+- **Pearson(DITEC) Diploma in Information Technology** from Esoft Metro College 2023
 ## Contact
 You can reach me at kethnuleew@gmail.com or find me on https://www.linkedin.com/in/kethnulee-weerasinghe/ .
